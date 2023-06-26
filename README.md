@@ -5,9 +5,15 @@ This repository contains a Python project aimed at automating work tasks and ser
 The goal of this project is to introduce Python programming concepts through hands-on experience with real-world automation scenarios. By following the project, your friend will gain practical skills in Python while simultaneously automating work tasks.
 
 ## The project covers various topics, including:
+
 -Basic Python syntax and data structures
+
 -File handling and manipulation
+
 -Web scraping and data extraction
+
 -Automating repetitive tasks using scripts
+
 -Interacting with APIs
+
 -Creating GUI applications
